@@ -1,5 +1,5 @@
 # SQL_TSQL_ALURA
->Armazenar meus scripts de estudos  e aprimoramento.<
+>Armazenar meus scripts de estudos  e aprimoramento.
 
 # Scripts de Estudo em SQL e T-SQL
 
