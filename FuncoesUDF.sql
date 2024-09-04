@@ -21,3 +21,4 @@ END;
 
 --tem que usar dbo.
 SELECT dbo.FaturamentoNota(NUMERO) AS FATURAAA FROM dbo.NF
+
